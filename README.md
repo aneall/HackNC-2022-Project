@@ -1,11 +1,8 @@
-# A-Frame Project
+# EduVeRse - HackNC 2022 Project
+## Creator: Ashley Neall
 
-**[Subscribe to the A-Frame newsletter!](https://aframe.io/subscribe/)**
+Built with [A-Frame](https://aframe.io), "a web framework for building virtual reality experiences" and Wix, utilizing glitch as my web-based IDE of choice.
 
-**[Sponsor us to help support A-Frame development and its community](https://github.com/sponsors/dmarcos)**
+Thanks to the environments I built by importing pre-made assets into html code, with the help of A-Frame, the experiences accessible on the EduVeRse website are compatible with desktops, smartphones, and headsets.
 
-Built with [A-Frame](https://aframe.io), a web framework for building virtual reality experiences.
-
-Make WebVR with HTML and Entity-Component. Works on Vive, Rift, Quest, desktop, mobile platforms.
-
-Click and drag on desktop. Open it on a smartphone and use the device motion sensors. Or [plug in a VR headset](https://aframe.io/docs/0.8.0/introduction/vr-headsets-and-webvr-browsers.html)!
+Check here to learn more about A-Frame: (https://aframe.io/docs/0.8.0/introduction/vr-headsets-and-webvr-browsers.html)!
